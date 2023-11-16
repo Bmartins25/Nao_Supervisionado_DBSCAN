@@ -1,4 +1,4 @@
-# Not_Supervised_DBSCAN (Em andamento)
+# Not_Supervised_DBSCAN
 
 ---
 
